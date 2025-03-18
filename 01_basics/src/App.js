@@ -1,7 +1,7 @@
-
+import Chai from "./chai";
 function App() {
   return (
-    <h1>Chalo React seekhe</h1>
+    <Chai/>
   );
 }
 
