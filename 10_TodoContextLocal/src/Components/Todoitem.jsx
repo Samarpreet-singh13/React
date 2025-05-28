@@ -1,4 +1,3 @@
-import React from "react";
 import { useTodo } from "../contexts/todoContext";
 
 function TodoItem({ todo }) {
