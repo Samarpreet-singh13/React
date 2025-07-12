@@ -1,5 +1,5 @@
 import React from "react";
-import { Login as authLogin } from "../store/authSlice"
+import { login as authLogin } from "../store/authSlice"
 import { Link, useNavigate } from "react-router-dom";
 import { Button, Logo, Input } from "./index";
 import { useDispatch } from "react-redux";
